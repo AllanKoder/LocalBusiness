@@ -5,4 +5,4 @@ In order to run the website, you must run the python main file, which needs to i
 # Intructions to run the local host: 
 Download the project and extract it to a location on your computer. 
 Open the project with Pycharm or another IDE, make sure you have all the necassary pips installed for it to work. 
-Finally run the main.py file.
+Finally run the main.py file. Now you can try out the website and all of the features
