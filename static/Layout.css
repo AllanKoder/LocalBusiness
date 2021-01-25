@@ -1,0 +1,185 @@
+/* CSS Document */
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#BackgroundImage{
+	height: 400px;
+	margin: 0;
+	padding: 0;
+	background-image:url("images/Background.jpg");
+	background-repeat:no-repeat;
+    background-size: 130%;
+	background-position: center;
+}
+#Holder{
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 21px;
+
+}
+#Line{
+	height: 10px;
+	background-color: #fcba03;
+}
+#NavBar{
+	height: 100px;
+	margin: 0px;
+}
+#logo{
+	margin-left: 10px;
+}
+#ContentHolder{
+	height: auto;
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 21px;
+	margin-top: 21px;
+
+
+}
+#Content{
+	height: 600px;
+	overflow: auto;
+}
+#ContentCenter{
+	width: 400px;
+	overflow: auto;
+	float: center;
+	margin: 20px
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: -1px;
+  box-sizing: border-box;
+}
+input[type=button], select {
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: -1px;
+  box-sizing: border-box;
+  background-color: #FFFFFF;
+
+}
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+#Results{
+	height: auto;
+	align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 21px;
+	margin-top: 21px;
+}
+#ResultsDetail{
+	height: auto;
+}
+
+#PageHeading{
+	height: auto;
+	padding: 11px;
+}
+h1{
+	margin: 0;
+	font-family: "Arial";
+	color: #6eff61;
+	font-weight: bolder;
+	font-style: normal;
+}
+p{
+	margin: 0;
+	font-size: 14px;
+	font-family: "Arial";
+	color: #FFFFFF;
+	font-weight: lighter;
+	font-style: normal;
+}
+#InputResult{
+	font-family: "Arial";
+	font-size: 32px;
+	width: auto;
+	color: #4be612;
+	font-weight: bolder;
+	font-style: normal;
+	float: left;
+}
+#InputDescription{
+	font-family: "Georgia";
+	font-size: 18px;
+	width: 400px;
+	color: #333333;
+	font-weight: thin;
+	font-style: normal;
+}
+#DetailsResult{
+	font-family: "Georgia";
+	font-size: 12px;
+	color: #333333;
+	font-weight: thin;
+	font-style: normal;
+}
+h2{
+	font-family: "Arial";
+	font-size: 18px;
+	color: #333333;
+	font-weight: thin;
+	font-style: normal;
+}
+
+#Address{
+	font-family: "Georgia";
+	font-size: 18px;
+	color: #5ba308;
+	font-weight: normal;
+	font-style: normal;
+}
+#ContentLeft{
+	width: 400px;
+	float: left;
+	padding-left: 11px;
+	padding-top: 11px;
+}
+#ContentRight{
+	padding-left: 11px;
+	padding-top: 11px;
+	width: 800px;
+	float: right;
+}
+#Footer{
+	height: 100px;
+}
+.InfoTable{
+	border-collapse:collapse;
+}
+
+.StyleTxtField{
+	border: 1px solid #FFFFFF;
+	border-radius: 6px;
+	width: 200px;
+	height: 35px;
+
+}
+
