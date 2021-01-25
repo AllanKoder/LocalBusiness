@@ -1,6 +1,3 @@
-# This Python 3 environment comes with many helpful analytics libraries installed
-# It is defined by the kaggle/python Docker image: https://github.com/kaggle/docker-python
-# For example, here's several helpful packages to load
 import cgi
 
 import eel
@@ -95,7 +92,7 @@ searchterm =  form.getvalue('searchbox')
 
 
 #start the web
-eel.init("")
+eel.init("static")
 
 
 @eel.expose
